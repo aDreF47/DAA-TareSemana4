@@ -101,6 +101,7 @@ public class Main {
         }
         System.out.printf("Numero de comparaciones: %d\n",
             empresa3.getComparaciones());*/
+        System.out.println("el dolor cansa a las personas");
         System.out.println("Busqueda Binaria Recursiva ");
         Scanner scanner = new Scanner(System.in);
         Empresa empresa4 = new Empresa();
